@@ -1,0 +1,17 @@
+# Data files
+data/raw/
+data/processed/
+
+# Model outputs
+results/models/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
